@@ -1,5 +1,5 @@
 {
-  "name": "TrellisBroker",
+  "name": "AGAPECertBroker",
   "version": "0.10.6",
   "private": true,
   "dependencies": {
